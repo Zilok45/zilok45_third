@@ -2,6 +2,7 @@
 * {
     font-family: "Museo Sans Cyrl" sans-sefif;
 }
+
 .container{
     max-width: 950px;
     margin: 0 auto;
@@ -9,3 +10,5 @@
 @import 'blocks/promo';
 @import 'blocks/header';
 @import 'blocks/buttons';
+@import 'blocks/advantage';
+@import 'blocks/media';
